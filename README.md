@@ -27,7 +27,7 @@ I'm a Junior Front-END Developer  👨‍💻
   <a href="https://www.instagram.com/ahmad.karimi.gorji">
     <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ahmad-karimigorji-b83a50272/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="mailto:ahmad77karimigorji@gmail.com">
